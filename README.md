@@ -10,7 +10,7 @@ TBD
 
 Firearm assault injury data are publicly available and can be found on the Portland Police Department’s website using the [Portland Shooting Incident Statistics Dashboard](https://www.portland.gov/police/open-data/shooting-incident-statistics). 
 
-The traffic volume estimates were obtained through a Research Agreement with StreetLight, Inc., and cannot be shared.
+The traffic volume estimates were obtained through a Research Agreement with [StreetLight, Inc.](https://www.streetlightdata.com/), and cannot be shared.
 
 
 ___
